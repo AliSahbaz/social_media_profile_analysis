@@ -9,6 +9,7 @@
 * Social networks allow users to create virtual identities online, typically following advertising based business model. Advertising schemes on social networks could be more effective if networks could see the full set of information an individual posts across several platforms, which is challenging because users may not identify themselves in exactly the same way on each platform. This requires matching user identities across platforms. This is an identity matching system that can be used for user identification, using static profile characteristics (eg: name, location and gender etc.) as well as topic modeling approach using dynamic post data. It uses data analysis techniques together with machine learning approaches for this purpose.
 * So, this repository consists of work done to identify users when the user ids for different social network platforms such as facebook, twitter and google+ are feeded.
 * It performs analysis pairwise (eg: facebook-twitter, facebook-google+ and so on).
+* Demo directory contains demo videos about the project party by part.
         
 <h4> Setup and Pre-requesties</h4>
 * java SDK 1.7
